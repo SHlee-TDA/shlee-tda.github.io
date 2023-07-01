@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics, Pukyong National University, 2018
-* M.S. in Mathematics, Pohang University of Science and Technology, 2020
-* Ph.D (Candidate) in Artificial Intelligence, Pohang University of Science and Technology, (Current)
+* B.S. in Applied Mathematics, Pukyong National University, 2012-2018
+* M.S. in Mathematics, Pohang University of Science and Technology, 2020-2022
+* Ph.D (Candidate) in Artificial Intelligence, Pohang University of Science and Technology, 2022-Current
 
 Work experience
 ======
